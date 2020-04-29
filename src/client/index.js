@@ -14,5 +14,4 @@ console.log("CHANGE!!");
 export {
     checkForName,
     handleSubmit
-
 }
